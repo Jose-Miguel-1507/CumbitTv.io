@@ -1,0 +1,62 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #c8c8c8;
+  background-color: #272b30
+}
+
+
+select#videoselection {
+  background: #0100ff;
+  color: #ffffff;
+  width: 300px;
+  height: 25px;
+  border-radius: 9px;
+  border: 2px solid #0100e0;
+  text-align-last: center;
+
+}
+
+input#textbox {
+  background: #0100ff;
+  color: #ffffff;
+  width: 305px;
+  height: 28px;
+  border-radius: 4px;
+  border: 2px solid #0100e0;
+  text-align-last: center;
+
+}
+
+input[type="button"] {
+  background: #eae9f1;
+  color: #0100e0;
+  width: 100px;
+  height: 31px;
+  border-radius: 0px;
+  animation-name: slidein;
+  animation-duration: 4s;
+  border: 2px solid #0100e0;
+  text-align-last: center;
+}
+
+
+video#video {
+  border-radius: 20px;
+  border: 20px solid #363640;
+  position: relative;
+    top: 75px;
+}
+
+.video-js {
+  border-style: double;
+  border-width: thick;
+  border-color: red;
+}
