@@ -1,4 +1,3 @@
 # IPTV Player
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/telase/pen/zYwOXwP](https://codepen.io/telase/pen/zYwOXwP).
-
+Sitio web alojado desde GitHub con el enlace de acceso: https://jose-miguel-1507.github.io/CUMBIT-TVCOL/
